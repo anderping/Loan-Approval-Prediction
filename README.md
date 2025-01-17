@@ -6,3 +6,7 @@
 **Evaluation**: Submissions are evaluated using the Area under ROC Cruve.
 
 <ins>**Final result**</ins>: AUC of ***0.86327*** obtained in test data using ***CatBoostClassifier***.
+
+To see the notebook open the following file:
+
+    src > Loan Approval Prediction.ipynb
